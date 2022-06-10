@@ -12,11 +12,9 @@
   "host_network": true,
   "map": [
     "config:rw",
-    "ssl:rw",
-    "addons:rw",
-    "share:rw",
     "backup:rw",
-    "media:rw"
+    "media:rw",
+    "NAS:rw"
   ],
   "options": {
     "workgroup": "WORKGROUP",
